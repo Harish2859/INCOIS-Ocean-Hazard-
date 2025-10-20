@@ -1,0 +1,5 @@
+{
+  "name": "INCOIS Admin Command Center",
+  "description": "A secure, data-rich, and highly functional web-based dashboard for INCOIS administrators to manage content, users, and analyze data collected from the Coastal Monitoring mobile app.",
+  "requestFramePermissions": []
+}
